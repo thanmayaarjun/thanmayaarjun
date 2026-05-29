@@ -1,4 +1,3 @@
-## Hi there 👋
 # ✧･ﾟ: *✧･ﾟ:*  Welcome to My Space  *:･ﾟ✧*:･ﾟ✧
 
 <div align="center">
@@ -20,7 +19,7 @@ A high school student passionate about:
 * 💡 Business + tech
 * 🌙 Aesthetic design & productivity
 
-> “Small steps every day turn into big results.”
+> “When its right, its scary.”
 
 ---
 
@@ -28,7 +27,7 @@ A high school student passionate about:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,java,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,cpp,github,vscode" />
 
 </div>
 
@@ -37,7 +36,7 @@ A high school student passionate about:
 ## ✨ Current Goals
 
 * 🌟 Building cool projects
-* 📈 Improving my coding skills
+* 📈 Currently learning HTML & C++
 * 🎓 Preparing for my future career
 * 🚀 Growing my GitHub portfolio
 
@@ -59,9 +58,7 @@ A high school student passionate about:
 
 | Project          | Description            |
 | ---------------- | ---------------------- |
-| 💖 Project One   | Short description here |
-| 🌙 Project Two   | Short description here |
-| 🎧 Project Three | Short description here |
+| 💖 Studywithidol   | A website made for kpop fans to study  |
 
 ---
 
@@ -70,7 +67,7 @@ A high school student passionate about:
 * 🎤 Music
 * ☕ Matcha
 * 📖 Late-night studying
-* 🌷 scrolling on youtube
+* 🌷 Dancing
 
 ---
 
@@ -79,7 +76,7 @@ A high school student passionate about:
 <p align="center">
 <a href="https://github.com/thanmayaarjun">GitHub</a> •
 <a href="https://www.linkedin.com/in/thanmaya-arjun-8aaa193b7/">LinkedIn</a> •
-<a href="https://www.instagram.com/">Instagram</a>
+<a href="https://www.instagram.com/https.thanmaya/">Instagram</a>
 </p>
 
 ---
@@ -91,4 +88,5 @@ A high school student passionate about:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F7B5D8&height=100&section=footer" />
 
 </div>
+
 
